@@ -1,0 +1,13 @@
+Epoch 1/10
+233/233 [==============================] - 217s 909ms/step - loss: 1.1847 - accuracy: 0.5620 - val_loss: 0.9177 - val_accuracy: 0.6789
+Epoch 2/10
+233/233 [==============================] - 197s 847ms/step - loss: 0.9071 - accuracy: 0.6896 - val_loss: 0.8230 - val_accuracy: 0.7284
+Epoch 3/10
+233/233 [==============================] - 213s 912ms/step - loss: 0.7261 - accuracy: 0.7575 - val_loss: 0.7250 - val_accuracy: 0.7516
+Epoch 4/10
+233/233 [==============================] - 198s 850ms/step - loss: 0.5918 - accuracy: 0.8109 - val_loss: 0.5145 - val_accuracy: 0.8416
+Epoch 5/10
+233/233 [==============================] - 191s 821ms/step - loss: 0.6361 - accuracy: 0.7917 - val_loss: 0.7952 - val_accuracy: 0.7311
+Epoch 6/10
+233/233 [==============================] - 199s 853ms/step - loss: 0.6274 - accuracy: 0.8039 - val_loss: 0.6081 - val_accuracy: 0.8028
+Epoch 6: early stopping
